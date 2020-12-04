@@ -5,7 +5,7 @@ from os import getenv
 
 mysql_config = {
   'user': 'root',
-  'password': 'Freshcakes0702',
+  'password': 'REDACTED AS PERSONAL PASSWORD',
   'db': 'AIR_POLLUTION',
   'charset': 'utf8mb4',
   'cursorclass': pymysql.cursors.DictCursor,
